@@ -1,0 +1,263 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+}
+li{
+    list-style: none;
+}
+
+.headersection{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #FCEEF1;
+    padding: 0px 0;
+}
+
+.container {
+	width: 1280px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.headerleft{
+    width: 50%;
+    display: inline-block;
+
+}
+.headereight{
+    width: 50%;
+    display: inline-block;
+    
+}
+.img{
+    width: 300px;
+    height: auto;
+}
+.banneriamge {
+	height: 675px;
+	width: 600px;
+}
+.contentarea {
+	margin-top: 133px;
+}
+.title {
+	font-size: 71px;
+    color: #272727;
+}
+.btn{
+    
+    background:#E55473;
+    color: #fff;
+    padding: 10px 25px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 300;
+    border-radius: 10px;
+    text-transform: capitalize;
+}
+.Featuredsection{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    padding: 0px 0;
+    
+}
+.featuredcol{
+    width: 100%;
+    justify-content: center;
+}
+.contentinfo {
+	text-align: center;
+	padding-top: 100px;
+}
+.contentinfo h1{
+    font-size: 40px;
+    color: #272727;
+}
+.contentinfo p{
+    font-size: 18px;
+    color: #272727;
+    font-weight: 300;
+}
+.flowerimages{
+    display: flex;
+    justify-content: space-around;
+    display: inline-block;
+}
+.flowerimages img {
+	width: 360px;
+	height: 372px;
+	padding: 0px 23px;
+}
+.flowerimages h5 {
+	text-align: center;
+}
+.pinkflower {
+	background: #A7216226;
+	border-radius: 300px 300px 0px 0px;
+	padding: 115px 0px 0px 0px;
+}
+.skyflower {
+	background: #0597A021;
+    border-radius: 300px 300px 0px 0px;
+	padding: 115px 0px 0px 0px;
+}
+.greenflower {
+	background: #477D111F;
+	border-radius: 300px 300px 0px 0px;
+	padding: 115px 0px 0px 0px;
+}
+
+.Featuredsections{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 0;
+}
+.flowerbottomimages{
+    display: flex;
+    justify-content: space-around;
+    display: inline-block;
+}
+.Delivery{
+    justify-content: space-around;
+}
+.flowerbottomimages img {
+	width: 30%;
+	padding: 37px 168px;
+}
+.flowerbottomimages h5 {
+	text-align: center;
+	font-weight: 400;
+	font-size: 20px;
+}
+.flowerbottomimages img {
+	width: 30%;
+	padding: 3px 168px;
+	margin-top: 38px;
+}
+.flowerbottomimages img {
+	width: 17%;
+	padding: 3px 168px;
+	margin-top: 40px;
+}
+.Delivery{
+    background-color: #F4F4F4;
+    border-radius: 20px;
+    margin-top: 50px;
+
+}
+
+
+.signupsection {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	padding: 0px 0;
+	background-color: #E5547314;
+	padding: 57px 0px;
+	margin-top: 50px;
+}
+.signipright {
+	margin-top: 132px;
+}
+.btn.left {
+	margin-left: 130px;
+}
+.signipright p {
+	margin-left: -20px;
+	text-align: center;
+}
+.flowerins{
+    display: flex;
+    justify-content: space-around;
+    display: inline-block;
+}
+.flowerins img {
+	width: 303px;
+	height: 353px;
+	padding: 0px 12px;
+	margin-top: 20px;
+}
+.Subscribesection{
+    width: 100%;
+	display: flex;
+	justify-content: space-around;
+    padding: 0px 0;
+	margin-top: 50px;
+}
+.Subscribe {
+	background-image: url("../images/Rectangle 9.png");
+	width: 100%;
+	height: 100%;
+	background-size: 100%;
+	padding: 100px 0;
+	background-repeat: no-repeat;
+    justify-content: space-around;
+
+}
+
+.Subscribe h1 {
+	text-align: center;
+}
+.Subscribe p {
+	text-align: center;
+}
+.Subscribe #fname {
+	padding: 16px 450px 16px 74px;
+	border-radius: 8px;
+	background: #fff;
+	border: navajowhite;
+	text-align: center;
+	margin-left: 222px;
+}
+.footer {
+	background: #111010;
+	margin-top: 50px;
+    display: flex;
+
+}
+.contentfooter {
+	color: #fff;
+	text-align: center;
+	padding: 53px 0px;
+	margin-left: 600px;
+}
+.copyright {
+	color: #ffffff63;
+}
+.aboutsection {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	padding: 50px 0;
+	margin-top: 53px;
+}
+.img.extraimg {
+	width: 443px;
+	height: 443px;
+	border-radius: 60px 0px 60px 0px;
+}
+.aboutleft p {
+	font-size: 17px;
+	font-weight: 300;
+	padding: 10px 132px 10px 0;
+	text-transform: lowercase;
+	letter-spacing: 1px;
+}
+.aboutleft p {
+	font-size: 22px;
+	font-weight: normal;
+	padding: 10px 132px 10px 0;
+	text-transform: lowercase;
+	letter-spacing: 1px;
+}
+.aboutleft {
+	margin-top: 54px;
+}
